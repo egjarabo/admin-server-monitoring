@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: admin-server-monitoring
+
+server:
+  port: 8080
